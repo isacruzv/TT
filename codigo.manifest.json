@@ -1,0 +1,16 @@
+{
+  "name": "Teens Talk",
+  "short_name": "TeensTalk",
+  "description": "Espacio donde los adolescentes y adres de familia podrán adquirir información sobre el uso seguro de las redes sociales",
+  "start_url": "https://teenstalkproyecto.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff007f",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgCaM4S-Uz1hBhGdsRRqUPNBF-RWvUXqBC56a1LldU4KX_lHMxJwAAgw0Y0NpX_28wYd080he0rf0busyQ65IH6P7vmUcvNaJHHgH5KY155z_Uh4tr8eqmurICVyteNFEVZXng8XY2IiufiQ7bTmE1HbI6M0N9QE2EUc_NrwEpcruRZf7gkJE9PhP0j2sw",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
