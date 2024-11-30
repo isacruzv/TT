@@ -1,0 +1,21 @@
+{
+    "name": "Isa Cruz",
+    "short_name": "Isa Cruz",
+    "description": "Un blog increíble sobre productividad",
+    "start_url": "https://isacruzv.blogspot.com/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": [
+        {
+            "src": "https://img.freepik.com/vector-premium/rapunzel-dibujos-animados-peinando-su-largo-cabello-ondulado-logotipo-ilustracion-vectorial-plano-2_764382-124766.jpg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://img.freepik.com/vector-premium/rapunzel-dibujos-animados-peinando-su-largo-cabello-ondulado-logotipo-ilustracion-vectorial-plano-2_764382-124766.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
